@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="settingsPage" parallel="false">
+  <test name="settingsPage">
+    <classes>
+    	  <class name="com.jiff.settingspage.test.SettingsPageTest"/>      
+    </classes>
+  </test> <!-- Test -->    
+</suite> <!-- Suite -->

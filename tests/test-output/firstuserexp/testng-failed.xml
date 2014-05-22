@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [firstuserexp]">
+  <test name="firstuserexptest(failed)">
+    <classes>
+      <class name="com.jiff.firstuser.exp.test.NewUserExperienceTest">
+        <methods>
+          <include name="newUserwithNoSpouseTest"/>
+        </methods>
+      </class> <!-- com.jiff.firstuser.exp.test.NewUserExperienceTest -->
+    </classes>
+  </test> <!-- firstuserexptest(failed) -->
+</suite> <!-- Failed suite [firstuserexp] -->

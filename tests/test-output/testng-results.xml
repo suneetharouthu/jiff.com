@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72109" started-at="2014-05-21T05:25:52Z" finished-at="2014-05-21T05:27:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72109" started-at="2014-05-21T05:25:52Z" finished-at="2014-05-21T05:27:05Z">
+      <class name="com.jiff.homepage.test.BeActiveTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.jiff.homepage.test.BeActiveTest@14458b82]" name="login" is-config="true" duration-ms="11854" started-at="2014-05-20T22:25:52Z" finished-at="2014-05-20T22:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="activeIncentivePayoutTest()[pri:0, instance:com.jiff.homepage.test.BeActiveTest@14458b82]" name="activeIncentivePayoutTest" duration-ms="13543" started-at="2014-05-20T22:26:04Z" finished-at="2014-05-20T22:26:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activeIncentivePayoutTest -->
+        <test-method status="PASS" signature="beActiveSyncTest()[pri:0, instance:com.jiff.homepage.test.BeActiveTest@14458b82]" name="beActiveSyncTest" duration-ms="6825" started-at="2014-05-20T22:26:18Z" finished-at="2014-05-20T22:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beActiveSyncTest -->
+        <test-method status="PASS" signature="beActiveViewGraphTest()[pri:0, instance:com.jiff.homepage.test.BeActiveTest@14458b82]" name="beActiveViewGraphTest" duration-ms="17450" started-at="2014-05-20T22:26:25Z" finished-at="2014-05-20T22:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beActiveViewGraphTest -->
+        <test-method status="PASS" signature="resetGoalsTest()[pri:0, instance:com.jiff.homepage.test.BeActiveTest@14458b82]" name="resetGoalsTest" duration-ms="21207" started-at="2014-05-20T22:26:42Z" finished-at="2014-05-20T22:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetGoalsTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.jiff.homepage.test.BeActiveTest@14458b82]" name="logout" is-config="true" duration-ms="1200" started-at="2014-05-20T22:27:03Z" finished-at="2014-05-20T22:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.jiff.homepage.test.BeActiveTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

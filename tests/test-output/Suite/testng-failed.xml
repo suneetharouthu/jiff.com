@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="LoginPageTest(failed)">
+    <classes>
+      <class name="com.jiff.homepage.test.BeActiveTest">
+        <methods>
+          <include name="logout"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.jiff.homepage.test.BeActiveTest -->
+      <class name="com.jiff.loginpage.test.LoginPageTest">
+        <methods>
+          <include name="logout"/>
+          <include name="homePageTest"/>
+        </methods>
+      </class> <!-- com.jiff.loginpage.test.LoginPageTest -->
+    </classes>
+  </test> <!-- LoginPageTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

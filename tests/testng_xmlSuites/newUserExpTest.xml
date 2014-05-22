@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="firstuserexp" parallel="false">
+  <test name="firstuserexptest">
+    <classes>
+    	  
+    	  <class name="com.jiff.firstuser.exp.test.NewUserExperienceTest"/>      
+    </classes>
+  </test> <!-- Test -->    
+</suite> <!-- Suite -->
